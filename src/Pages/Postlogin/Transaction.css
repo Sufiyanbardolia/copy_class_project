@@ -1,0 +1,20 @@
+.Product_Top_container7 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 40px;
+}
+
+.card-container7 {
+  width: 125%;
+}
+
+.options-container7 {
+  display: flex;
+  align-items: center;
+}
+
+
+.option-container button {
+  margin-left: 10px;
+}

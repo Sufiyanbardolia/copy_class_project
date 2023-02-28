@@ -1,0 +1,32 @@
+.Product_Top_container1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 40px;
+    width: 220%;
+  }
+  
+  /* .Product-Top-button button {
+    margin: 0px 5px;
+  } */
+  
+  .card-container1 {
+    width: 220%;
+  }
+/*   
+  .options-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .options-container button {
+    margin-left: 10px;
+  }
+  
+  .option-container input{
+      margin: 0px 10px;
+      align-items: center;
+  }
+  .option-container button{
+      margin-left: 10px;
+  } */

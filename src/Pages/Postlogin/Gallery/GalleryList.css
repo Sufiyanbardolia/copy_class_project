@@ -1,0 +1,12 @@
+.card-container9 {
+  width: 270%;  
+}
+
+.options-container9 {
+  display: flex;
+  align-items: center;
+}
+
+.option-container button {
+  margin-left: 10px;
+}
